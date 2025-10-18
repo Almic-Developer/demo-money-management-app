@@ -18,7 +18,7 @@ Money Management App helps you:
 
 ### Download APK
 
-1. Download the latest APK from the [Releases](https://github.com/yourusername/money-management-app/releases) page
+1. Download the APK directly: [Money-Management-App-v1.0.1.apk](Money-Management-App-v1.0.1.apk)
 2. Install on your Android device (Android 5.0+ required)
 3. Allow installation from unknown sources if prompted
 
