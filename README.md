@@ -14,6 +14,9 @@ Money Management App helps you:
 - **Export Data**: Save your transactions to CSV files
 - **Local Storage**: All data stays on your device for privacy
 
+### 📺 Demo Video
+Watch the app in action: [Money Management App Demo](https://youtu.be/1_lwbB_nuwI?si=5wQaD_7wjR3uv4fE)
+
 ## 📦 Installation
 
 ### Download APK
@@ -72,6 +75,7 @@ To use the AI assistant feature, you need a Google AI Studio API key:
 
 - **Issues**: Report bugs via [GitHub Issues](https://github.com/yourusername/money-management-app/issues)
 - **Email**: allen@almicdigital.com
+- **Website**: [almicdigital.com](https://almicdigital.com)
 
 ---
 
