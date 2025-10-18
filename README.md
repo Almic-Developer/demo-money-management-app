@@ -2,6 +2,8 @@
 
 A Flutter application for tracking income and expenses with AI-powered financial insights.
 
+**🏆 Hackathon Submission**: This project was developed for the [Cursor Meetup Surabaya: Hackathon](https://luma.com/lz9ugsbd) - the first Cursor hackathon in Indonesia with 75+ participants.
+
 ![App Icon](assets/unnamed_borderless.jpg)
 
 ## 📱 What is this app?
@@ -15,6 +17,7 @@ Money Management App helps you:
 - **Local Storage**: All data stays on your device for privacy
 
 ### 📺 Demo Video
+
 Watch the app in action: [Money Management App Demo](https://youtu.be/1_lwbB_nuwI?si=5wQaD_7wjR3uv4fE)
 
 ## 📦 Installation
